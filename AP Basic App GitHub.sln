@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP Basic App GitHub", "AP Basic App GitHub\AP Basic App GitHub.csproj", "{B5638DE7-F11A-46F0-885B-CF5BFAB76981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP_Basic_App_Core.Tests", "AP_Basic_App_Core.Tests\AP_Basic_App_Core.Tests.csproj", "{E7230740-D02E-4078-AE05-7FC80CC2DEC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5638DE7-F11A-46F0-885B-CF5BFAB76981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5638DE7-F11A-46F0-885B-CF5BFAB76981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5638DE7-F11A-46F0-885B-CF5BFAB76981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5638DE7-F11A-46F0-885B-CF5BFAB76981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7230740-D02E-4078-AE05-7FC80CC2DEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7230740-D02E-4078-AE05-7FC80CC2DEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7230740-D02E-4078-AE05-7FC80CC2DEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7230740-D02E-4078-AE05-7FC80CC2DEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5626467-D987-449E-B211-A1BA35CC53A6}
+	EndGlobalSection
+EndGlobal
